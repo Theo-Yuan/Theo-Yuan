@@ -40,8 +40,7 @@ Coming soon...
 ---
 
 ### 📫 Contact
-
-- Email: cooleryy1998@qq.com  
+ 
 - GitHub: [Theo-Yuan](https://github.com/Theo-Yuan)  
 - Resume: Coming soon...
 
