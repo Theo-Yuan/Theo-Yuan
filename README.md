@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Theo Yuan (袁宇)
+## 👋 Hi, I'm Theo Yuan
 
 🚀 Rust Backend Developer | Distributed Systems | Video & Image AI  
 📍 Based in China | 💼 Open to new opportunities  
