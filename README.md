@@ -34,8 +34,7 @@ I'm passionate about **performance**, **clean async code**, and building **relia
 
 ### 📂 Featured Projects
 
-<!-- Add real links once ready -->
-Coming soon...
+- [Proxy Service for Real-time Data Streaming](https://github.com/Theo-Yuan/sse-demo)
 
 ---
 
